@@ -12,7 +12,7 @@
   "author": "Rafa Osornio <osornio.rafael@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
